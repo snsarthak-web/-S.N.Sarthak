@@ -1,2 +1,5 @@
-# -S.N.Sarthak
-Computer Science student projects and learning journey
+# Hi 👋 I'm S.N.Sarthak
+
+🎓 Computer Science Student  
+💻 Learning JavaScript, Python, Flask  
+🚀 Interested in AI and Web Development
